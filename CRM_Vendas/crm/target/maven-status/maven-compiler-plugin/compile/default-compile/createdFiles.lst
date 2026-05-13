@@ -1,0 +1,11 @@
+edu\br\crm\model\VendaParcelada.class
+edu\br\crm\dao\VendaDAO.class
+edu\br\crm\view\ConsoleView.class
+edu\br\crm\Crm.class
+edu\br\crm\model\Cliente.class
+edu\br\crm\model\Vendedor.class
+edu\br\crm\controller\VendaController.class
+edu\br\crm\dao\ConnectionFactory.class
+edu\br\crm\model\Venda.class
+edu\br\crm\model\VendaAVista.class
+edu\br\crm\service\VendaService.class
